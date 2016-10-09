@@ -3,17 +3,17 @@ My personal Vim plugins, configurations bundle.
 
 ## Plugins
 
-- NERDTree
-- NeoComplete
-- vim-airline
-- vim-easymotion
-- vim-go
-- vim-nerdtree-tabs
-- pathogen
+- [NERDTree](https://github.com/scrooloose/nerdtree)
+- [NeoComplete](https://github.com/Shougo/neocomplete.vim)
+- [vim-airline](https://github.com/vim-airline/vim-airline)
+- [vim-easymotion](https://github.com/easymotion/vim-easymotion)
+- [vim-go](https://github.com/fatih/vim-go)
+- [vim-nerdtree-tabs](https://github.com/jistr/vim-nerdtree-tabs)
+- [pathogen](https://github.com/tpope/vim-pathogen)
 
 ## Theme
 
-- molokai
+- [molokai](https://github.com/tomasr/molokai)
 
 ## Preview
 
