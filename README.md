@@ -15,6 +15,14 @@ My personal Vim plugins, configurations bundle.
 
 - [molokai](https://github.com/tomasr/molokai)
 
+## Usage
+
+```
+# Backup you configure
+cp _vimrc ~/.vimrc
+cp -r _vim ~/.vim
+```
+
 ## Preview
 
 ![James vim bundle preview](/preview.png)
