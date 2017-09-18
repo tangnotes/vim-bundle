@@ -150,6 +150,7 @@ let g:go_highlight_structs = 1
 let g:go_highlight_operators = 1
 let g:go_highlight_build_constraints = 1
 let g:nerdtree_tabs_autoclose = 0
+let NERDTreeIgnore = ['\.\(pyc\|o\|lo\)$']
 
 au FileType go nmap <leader>r <Plug>(go-run)
 au FileType go nmap <leader>b <Plug>(go-build)
