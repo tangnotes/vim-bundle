@@ -26,7 +26,7 @@ set laststatus=2
 set modeline
 set foldmethod=marker
 set cursorline
-" set completeopt-=preview
+set completeopt-=preview
 "set autoindent
 
 
